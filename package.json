@@ -1,0 +1,24 @@
+{
+  "name": "phancer-tester",
+  "version": "1.0.0",
+  "description": "Auto enhance your photo using phancer website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSARCandy/phancer-tester.git"
+  },
+  "author": "ssarcandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SSARCandy/phancer-tester/issues"
+  },
+  "homepage": "https://github.com/SSARCandy/phancer-tester#readme",
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
